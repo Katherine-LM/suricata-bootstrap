@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+
+}
+
+.navbar {
+    background-color: #e83e8c;
+
+}
+
+
+.nav-link active {
+    color: #fff;
+}
+
+.title {
+    text-align: center;
+    font: normal normal bold 60px/82px Open Sans;
+    color: #707070;
+    opacity: 1;
+
+}
+
+.card-title {
+    font: normal normal bold 17px/23px Open Sans;
+}
+
+#payment {
+    background: #17A2B8;
+    height: 170px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+
+}
+
+#payment h1 {
+    font: normal normal bold 40px/55px Open Sans;
+}
+
+.icons-section i {
+    padding: 10px;
+
+}
+
+.footer {
+    background-color: #e83e8c;
+    height: 170px;
+}
